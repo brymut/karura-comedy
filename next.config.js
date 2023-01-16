@@ -7,8 +7,8 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://karuracomedyclub.hustlesasa.shop/product/22765',
-        permanent: true,
+        destination: 'https://karuracomedyclub.hustlesasa.shop/product/22765/',
+        permanent: false,
       },
     ]
   },

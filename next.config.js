@@ -7,7 +7,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://karuracomedyclub.hustlesasa.shop/product/22765/',
+        destination: 'https://chpter.co/Karura-ComedyClub/Valentines%20Day%20Comedy%20Jam/',
         permanent: false,
       },
     ]
